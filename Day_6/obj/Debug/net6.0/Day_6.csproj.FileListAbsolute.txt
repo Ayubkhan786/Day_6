@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\Day_6\Day_6\bin\Debug\net6.0\Day_6.exe
+C:\Users\Ayub\source\repos\Day_6\Day_6\bin\Debug\net6.0\Day_6.deps.json
+C:\Users\Ayub\source\repos\Day_6\Day_6\bin\Debug\net6.0\Day_6.runtimeconfig.json
+C:\Users\Ayub\source\repos\Day_6\Day_6\bin\Debug\net6.0\Day_6.dll
+C:\Users\Ayub\source\repos\Day_6\Day_6\bin\Debug\net6.0\Day_6.pdb
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.dll
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\refint\Day_6.dll
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.pdb
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\Day_6.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\Day_6\Day_6\obj\Debug\net6.0\ref\Day_6.dll

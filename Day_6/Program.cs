@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Welcome to Day_6");
+﻿Console.WriteLine("Welcome to master");
+

@@ -1,12 +1,34 @@
-﻿ static void Functions()
-{
-    Random random = new Random();
-}
+﻿using System;
 
-
-int[] coupon = new int[8] { 23, 56, 78, 54, 32, 1, 7, 8 };
-int n;
-for(int i = 0; i < 8; i++)
+namespace Day_6
 {
-    Console.WriteLine(Functions); 
+    public class Functions
+    {
+        Random random = new Random();
+
+        int[] coupon = new int[7] { 1,5,6,9,7,3,5 };
+        
+        public void cal()
+        {
+
+            int i = 0;
+           while ( (i< coupon[i]))
+            { 
+                if(random.Next(1,10) == coupon[i])
+                {
+                    
+                    Console.WriteLine(coupon[i]);
+                    i++;
+
+                }
+
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            Functions functions = new Functions();
+            functions.cal();
+        }
+    }
 }
